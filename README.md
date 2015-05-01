@@ -1,4 +1,4 @@
-# create-cookbook
+# t-cookbook
 
 TODO: Enter the cookbook description here.
 
@@ -16,7 +16,7 @@ TODO: List your supported platforms.
     <th>Default</th>
   </tr>
   <tr>
-    <td><tt>['create']['bacon']</tt></td>
+    <td><tt>['t']['bacon']</tt></td>
     <td>Boolean</td>
     <td>whether to include bacon</td>
     <td><tt>true</tt></td>
@@ -25,14 +25,14 @@ TODO: List your supported platforms.
 
 ## Usage
 
-### create::default
+### t::default
 
-Include `create` in your node's `run_list`:
+Include `t` in your node's `run_list`:
 
 ```json
 {
   "run_list": [
-    "recipe[create::default]"
+    "recipe[t::default]"
   ]
 }
 ```

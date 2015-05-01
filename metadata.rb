@@ -1,8 +1,8 @@
-name             'test'
+name             't'
 maintainer       'YOUR_NAME'
 maintainer_email 'YOUR_EMAIL'
 license          'All rights reserved'
-description      'Installs/Configures create'
-long_description 'Installs/Configures create'
+description      'Installs/Configures t'
+long_description 'Installs/Configures t'
 version          '0.1.0'
 
