@@ -1,0 +1,12 @@
+#
+# Cookbook Name:: create
+# Recipe:: default
+#
+# Copyright (C) 2015 YOUR_NAME
+#
+# All rights reserved - Do Not Redistribute
+#
+
+file "/tmp/a" do
+  action :create
+end
