@@ -11,7 +11,7 @@ file "/tmp/ab" do
   action :create
 end
 
-cookbook_file "file.txt" do
-  path "/tmp/file.txt"
-  action :create_if_missing
-end
+#cookbook_file "file.txt" do
+#  path "/tmp/file.txt"
+#  action :create_if_missing
+#end
