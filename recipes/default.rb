@@ -7,7 +7,7 @@
 # All rights reserved - Do Not Redistribute
 #
 
-file "/tmp/abc" do
+file "/tmp/abcd" do
   action :create
 end
 
